@@ -1,4 +1,4 @@
-# desarrollo-web
+# Desarrollo
 Experimental para retomar con lo ya aprendido. Este proyecto es una página web en HTML,CSS.js, Bootstrap y jQuery. El objetivo es desarrollar una web implementando esa combinación de códigos y librerías para retomar lo ya aprendido. Consecuentemente, la página se va a subir a un hosting y se va a actualizar a modo de blog.
 
 Lo anterior para empezar a aportar a la comunidad conocimientos, investigaciones y aprender por medio de la retroalimentación de la misma. Soy aprendiz y busco avanzar en mi conosimeintos y construir actitudes y habilidades que me encaminen en este mundo cibernético.
