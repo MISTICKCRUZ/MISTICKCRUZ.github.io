@@ -1,15 +1,24 @@
 body {
   background: #ebd8d8;
 }
+
 .contenedor-global{
   
   background: #ff81d4fa;
 }
-.cabecera {  background: #ff607d8b;
+
+.cabecera {  
+   background: #ff607d8b;
 }
-.navegacion {  background: #ff78909c;
+
+.navegacion {  
+   background: #ff78909c;
 }
-.contenido {  background: #70d5f1;
+
+.contenido {  
+   background: #70d5f1;
 }
-.pie-de-pagina {  background: #09b8fd;
+
+.pie-de-pagina {  
+   background: #09b8fd;
 }
