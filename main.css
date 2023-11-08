@@ -12,13 +12,13 @@ body {
 }
 
 .navegacion {  
-   background: #ff78909c;
+   background: gray;
 }
 
 .contenido {  
-   background: #09b8fd;
+   background: silver;
 }
 
 .pie-de-pagina {  
-   background: #09b8fd;
+   background: silver;
 }
