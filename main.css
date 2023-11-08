@@ -1,14 +1,14 @@
 body {
-  background: silver;
+  background: black;
 }
 
 .contenedor-global{
   
-  background: gray;
+  background: silver;
 }
 
 .cabecera {  
-   background: #ff607d8b;
+   background: gray;
 }
 
 .navegacion {  
@@ -16,7 +16,7 @@ body {
 }
 
 .contenido {  
-   background: #70d5f1;
+   background: #09b8fd;
 }
 
 .pie-de-pagina {  
