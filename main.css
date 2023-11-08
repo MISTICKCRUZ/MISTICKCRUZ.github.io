@@ -1,5 +1,7 @@
 body {
-  background: #1B2049;
+  background: #002D31
+
+;
 }
 
 .contenedor-global{
@@ -18,11 +20,13 @@ img {
 }
 
 .cabecera {  
-   background:#1E5B70;
+   background:#3E5C5F;
 }
 
 .navegacion {  
-   background: #18A6B5;
+   background: #125358
+
+;
 }
 
 .contenido {  
@@ -30,5 +34,7 @@ img {
 }
 
 .pie-de-pagina {  
-   background: #1E5B70;
+   background: #125358
+
+;
 }
