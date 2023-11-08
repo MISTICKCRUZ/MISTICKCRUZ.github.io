@@ -1,10 +1,10 @@
 body {
-  background: black;
+  background: #1B2049;
 }
 
 .contenedor-global{
   
-  background: silver;
+  background: #F8F6DF;
 }
 
 img {
@@ -18,17 +18,17 @@ img {
 }
 
 .cabecera {  
-   background: gray;
+   background:#1E5B70;
 }
 
 .navegacion {  
-   background: gray;
+   background: #18A6B5;
 }
 
 .contenido {  
-   background: silver;
+   background: #18A6B5;
 }
 
 .pie-de-pagina {  
-   background: silver;
+   background: #1E5B70;
 }
