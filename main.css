@@ -24,17 +24,13 @@ img {
 }
 
 .navegacion {  
-   background: #125358
-
-;
-}
-
-.contenido {  
    background: #949494;
 }
 
-.pie-de-pagina {  
-   background: #125358
+.contenido {  
+   background: #125358;
+}
 
-;
+.pie-de-pagina {  
+   background: #125358;
 }
